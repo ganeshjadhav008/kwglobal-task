@@ -1,0 +1,5 @@
+kwglobal_task.content:  
+  title: 'Task'  
+  route_name: kwglobal_task.form  
+  parent: main  
+  weight: 99 

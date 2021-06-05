@@ -1,0 +1,7 @@
+kwglobal_task.form:  
+  path: '/kwglobal-task'  
+  defaults:  
+    _form: '\Drupal\kwglobal_task\Form\kwglobalForm'  
+    _title: 'Task'  
+  requirements:  
+    _permission: 'kwglobal form'  
