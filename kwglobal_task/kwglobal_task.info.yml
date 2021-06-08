@@ -2,4 +2,5 @@ name: 'Kwglobal Task'
 type: module
 description: 'Module include forms & controller'
 core: 8.x
+core_version_requirement: ^8
 package: 'Kwglobal'
